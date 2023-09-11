@@ -1,0 +1,40 @@
+#mainTab{
+    background-color: blue;
+    margin: 8rem 10rem;
+    height: 450px;
+    width: 80%;
+    border-radius: 21px;
+    display: flex;
+    /* width: 80%; */
+    justify-content: center;
+}
+#tabs{
+    padding: 4rem;
+}
+#tab{
+    width:90%;
+    display: flex;
+/* justify-content: space-around; */
+}
+#tabs div{
+    margin: 0 3rem 3rem;
+    /* background-color: white; */
+    padding: 1.5rem ;
+    border-radius: 1rem;
+    border: 5px solid white;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    width: 10rem;
+}
+#onediv{
+    background-color: #BCE0F6;
+}
+#details{
+    background-color: white;
+    padding: 5rem;
+    margin-top: 2rem;
+    height: 15rem;
+    width: 100%;
+    border-radius: 1rem;
+}
